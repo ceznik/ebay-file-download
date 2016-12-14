@@ -1,0 +1,19 @@
+{
+  "name": "ebay-file-download",
+  "version": "1.0.0",
+  "description": "Download files from eBay File Exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceznik/ebay-file-download.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceznik/ebay-file-download/issues"
+  },
+  "homepage": "https://github.com/ceznik/ebay-file-download#readme"
+}
